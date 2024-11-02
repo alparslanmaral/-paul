@@ -7,7 +7,11 @@ TagManager:
   - NPC
   - Enemy
   - Wall
+<<<<<<< Updated upstream
   - PickableObject
+=======
+  - MB
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
