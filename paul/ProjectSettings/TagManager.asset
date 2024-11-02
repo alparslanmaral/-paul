@@ -4,14 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - NPC
-  - Enemy
-  - Wall
-<<<<<<< Updated upstream
-  - PickableObject
-=======
   - MB
->>>>>>> Stashed changes
+  - Wall
+  - NPC
+  - PickableObject
+  - Enemy
   layers:
   - Default
   - TransparentFX
